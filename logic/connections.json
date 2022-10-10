@@ -7,7 +7,7 @@
       "connection": {
         "id": "/subscriptions/db66ab0b-0784-4e18-b5e8-1f0643425552/resourceGroups/Lakshmayya7/providers/Microsoft.Web/connections/azureblob-3"
       },
-      "connectionRuntimeUrl": "@appsetting('BLOB_CONNECTION_RUNTIMEURL')",
+      "connectionRuntimeUrl": "https://e59469ec18c57039.08.common.logic-westeurope.azure-apihub.net/apim/azureblob/5199a865b6ee462b9053c55e5fd6df9e/",
       "authentication": "@parameters('blob_auth')"
     }
   }
