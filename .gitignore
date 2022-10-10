@@ -6,4 +6,3 @@ appsettings.json
 local.settings.json
 .debug
 workflow-designtime/
-_azurite*
