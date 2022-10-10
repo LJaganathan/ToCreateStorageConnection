@@ -17,7 +17,7 @@ on:
   # Triggers when an environment file has been changed  
   push:
     paths:
-      - "Demo_LogicAppStnd/**"
+      - "logic/**"
       - ".github/workflows/Workflow_Deploy.yml"
 
 jobs:
