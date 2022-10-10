@@ -1,0 +1,72 @@
+{
+  "masterKey": {
+    "name": "master",
+    "value": "zqT1rJt_Mr9NJNa4oH4JsH7qYVk96XO6UtG6F2xL36NUAzFuqAMYTw==",
+    "encrypted": false
+  },
+  "functionKeys": [
+    {
+      "name": "default",
+      "value": "zJmLcBNskTJ43rJEdjxWbHNI_qgT-4qApyMqqlaq3mZ3AzFuI-8M2A==",
+      "encrypted": false
+    }
+  ],
+  "systemKeys": [],
+  "hostName": "localhost:7071",
+  "instanceId": "000000000000000000000000321800BF",
+  "source": "runtime",
+  "decryptionKeyId": ""
+}{
+  "masterKey": {
+    "name": "master",
+    "value": "zqT1rJt_Mr9NJNa4oH4JsH7qYVk96XO6UtG6F2xL36NUAzFuqAMYTw==",
+    "encrypted": false
+  },
+  "functionKeys": [
+    {
+      "name": "default",
+      "value": "zJmLcBNskTJ43rJEdjxWbHNI_qgT-4qApyMqqlaq3mZ3AzFuI-8M2A==",
+      "encrypted": false
+    }
+  ],
+  "systemKeys": [
+    {
+      "name": "blobs_extension",
+      "value": "qqwu424OixOncVnxttaV-Q0v8hVXmAT1GAdMnJ-bxDOKAzFuYDYAng==",
+      "encrypted": false
+    }
+  ],
+  "hostName": "localhost:7071",
+  "instanceId": "000000000000000000000000321800BF",
+  "source": "runtime",
+  "decryptionKeyId": ""
+}{
+  "masterKey": {
+    "name": "master",
+    "value": "zqT1rJt_Mr9NJNa4oH4JsH7qYVk96XO6UtG6F2xL36NUAzFuqAMYTw==",
+    "encrypted": false
+  },
+  "functionKeys": [
+    {
+      "name": "default",
+      "value": "zJmLcBNskTJ43rJEdjxWbHNI_qgT-4qApyMqqlaq3mZ3AzFuI-8M2A==",
+      "encrypted": false
+    }
+  ],
+  "systemKeys": [
+    {
+      "name": "blobs_extension",
+      "value": "qqwu424OixOncVnxttaV-Q0v8hVXmAT1GAdMnJ-bxDOKAzFuYDYAng==",
+      "encrypted": false
+    },
+    {
+      "name": "workflow_extension",
+      "value": "8YYHqhlpakXf15bb40f2IpjI9BNwPGVaiM3kApdTpWihAzFuHGSlXg==",
+      "encrypted": false
+    }
+  ],
+  "hostName": "localhost:7071",
+  "instanceId": "000000000000000000000000321800BF",
+  "source": "runtime",
+  "decryptionKeyId": ""
+}

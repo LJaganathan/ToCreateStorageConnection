@@ -1,0 +1,14 @@
+{
+  "managedApiConnections": {    
+    "azureblob_1": {
+      "api": {
+        "id": "/subscriptions/db66ab0b-0784-4e18-b5e8-1f0643425552/providers/Microsoft.Web/locations/westeurope/managedApis/azureblob"
+      },
+      "connection": {
+        "id": "/subscriptions/db66ab0b-0784-4e18-b5e8-1f0643425552/resourceGroups/Lakshmayya7/providers/Microsoft.Web/connections/azureblob-3"
+      },
+      "connectionRuntimeUrl": "@appsetting('BLOB_CONNECTION_RUNTIMEURL')",
+      "authentication": "@parameters('blob_auth')"
+    }
+  }
+}
