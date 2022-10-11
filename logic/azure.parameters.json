@@ -4,6 +4,11 @@
         "value": {
             "type": "ManagedServiceIdentity"
         }
-    }
-
+    },
+    "connectionProperties": {
+                "authentication": {
+                    "audience": "https://storage.azure.com/",
+                    "type": "ManagedServiceIdentity"
+                }
+            }
 }
