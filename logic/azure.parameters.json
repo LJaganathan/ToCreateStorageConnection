@@ -2,13 +2,8 @@
     "blob_auth": {
         "type":"object", 
         "value": {
-            "type": "ManagedServiceIdentity"
+            "type": "SystemAssigned"
         }
-    },
-    "connectionProperties": {
-                "authentication": {
-                    "audience": "https://storage.azure.com/",
-                    "type": "ManagedServiceIdentity"
-                }
-            }
+    }
+    
 }
