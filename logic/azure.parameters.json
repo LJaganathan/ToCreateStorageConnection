@@ -1,9 +1,6 @@
 {
-    "blob_auth": {
-        "type":"object", 
-        "value": {
-            "type": "SystemAssigned"
-        }
+    "blob_auth": {       
+            "type": "ManagedServiceIdentity"        
     }
     
 }
